@@ -1,0 +1,35 @@
+[33mcommit 873fe8fd26f8dd60b04040d295d91ef8cfd299f6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Zune Moe <2897539+zunemoe@users.noreply.github.com>
+Date:   Tue Feb 4 22:16:53 2025 +1300
+
+    Added Hello World! README.md
+
+[33mcommit d443827bc52670e467a6df7ff658c2d132636253[m
+Author: Zune Moe <2897539+zunemoe@users.noreply.github.com>
+Date:   Tue Feb 4 22:10:06 2025 +1300
+
+    Test commit message.
+
+[33mcommit bb80905c1861a42f04d39526773130f37bab34dc[m
+Author: Zune Moe <2897539+zunemoe@users.noreply.github.com>
+Date:   Tue Feb 4 21:59:50 2025 +1300
+
+    Add hello_world.txt
+
+[33mcommit 50557f0818d2cfad50ffe28451e8e2f1c5207531[m
+Author: zunemoe <rain.divine88@gmail.com>
+Date:   Tue Feb 4 15:12:34 2025 +1300
+
+    Hello World Commit
+
+[33mcommit 08e0ce53b2bc6dafff7c5b253c1e30f7e67ac8e1[m
+Author: zunemoe <rain.divine88@gmail.com>
+Date:   Tue Feb 4 15:10:24 2025 +1300
+
+    First push
+
+[33mcommit 068282fdb5565e282337af26c48fd530479fb49c[m
+Author: zunemoe <rain.divine88@gmail.com>
+Date:   Tue Feb 4 10:54:26 2025 +1300
+
+    Create README.md
